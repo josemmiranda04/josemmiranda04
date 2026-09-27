@@ -12,7 +12,7 @@
 * **Open Science:** Dedicated to reproducibility, rigorous testing, and building accessible code for the scientific community.
 
 ## 🛠️ Tech Stack & Tools
-* **Languages:** Python, MATLAB, HTML/PHP
+* **Languages:** Python, MATLAB, R, HTML/PHP
 * **Domain Tools:** NumPy, SciPy, Pandas, Pynapple, NeuroKit2, Keras, TensorFlow, PyTorch, Scikit-learn, Matplotlib.
 
 
