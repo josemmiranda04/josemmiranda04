@@ -2,7 +2,7 @@
 
 ### Biomedical Engineer | Neuroengineering & AI in Healthcare
 
-  Bsc Biomedical Engineer and Master’s student at NOVA School of Science and Technology, specializing in biosignal processing and neuroengineering, with hands-on experience developing automated Python pipelines for multimodal data at the Champalimaud Foundation and LIBPhys, Biosignals Group. Parallel to my academic career, I am a high-performance Karate athlete and an 8-time National Champion. 
+  Bsc Biomedical Engineer and Master’s student at NOVA School of Science and Technology, specializing in biosignal processing and neuroengineering, with hands-on experience developing automated Python pipelines for multimodal data at the Champalimaud Foundation and LIBPhys, Biosignals Group. Parallel to my academic career, I am a high-performance Karate athlete and an 9-time National Champion. 
   This journey has instilled in me a unique level of discipline, resilience, and focus, qualities I apply directly in many areas of my life. I strive to actively contribute to teams and projects that require excellence, innovation, and dedication in neuroengineering, computational neuroscience and building software tools that empower scientific discovery.
 
 ## 🧠 Focus Areas & Interests
